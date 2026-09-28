@@ -6,7 +6,6 @@
 
 <a href="mailto:pawardurva273@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://www.linkedin.com/in/durva-pawar-04640b34a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://github.com/Durva-3124"><img src="https://img.shields.io/github/followers/Durva-3124?style=for-the-badge&logo=github&label=Followers&color=6d28d9" alt="followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=Durva-3124&label=Views&color=8b5cf6&style=for-the-badge" alt="views"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
