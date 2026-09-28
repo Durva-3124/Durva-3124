@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi ,Durva Here:
 B.Tech AI & ML Student | Full-Stack & AI Developer | Building web apps, exploring ML pipelines & leading tech community initiatives. 🚀
 
 
