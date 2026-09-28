@@ -48,7 +48,7 @@ Durva().say_hi()
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="assets/techstack.svg" width="100%" alt="Tech stack: Python, JavaScript, TypeScript, Next.js, Django, FastAPI, MongoDB, PyTorch, TensorFlow, AWS, Docker and more"/>
+<img src="assets/techstack1.svg" width="100%" alt="Tech stack: Python, JavaScript, TypeScript, Next.js, Django, FastAPI, MongoDB, PyTorch, TensorFlow, AWS, Docker and more"/>
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
